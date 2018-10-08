@@ -24,4 +24,4 @@ If the environment is configured manually with the VS code extension, then clone
 
 ctrl+shift+p and searching for "Serve Project with PHP"
 
-For more information, visit (http://aboutcsrf.blogspot.com/2018/09/csrf-protection-synchronizer-token.html).
+For more information, visit (https://oauthapp.blogspot.com/2018/10/a-web-application-that-consumes-service.html).
